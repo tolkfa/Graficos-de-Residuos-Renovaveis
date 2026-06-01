@@ -1,1 +1,1 @@
-# Gr-ficos-de-Res-duos-Renov-veis
+#  Gráficos de Resíduos Renováveis
