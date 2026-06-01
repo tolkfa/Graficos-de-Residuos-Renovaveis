@@ -47,3 +47,9 @@ npm run dev
 2. Ir para o webStore
 3. Adicionar a extensão CORS Unblock
 4. ativar essas seguintes informações:
+## Imagem1
+![Extensão](./extensao.png)
+
+## Imagem2
+A imagem terá como:
+![Gráfico](./grafico.png)
